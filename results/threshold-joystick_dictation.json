@@ -1,0 +1,12 @@
+{
+  "threshold": 2.2497,
+  "calibration_scores": [
+    0.6307,
+    1.9563
+  ],
+  "worst_calibration_score": 1.9563,
+  "rule": "threshold = 1.15 x worst score on the owner's calibration sessions",
+  "frr_target": 0.1,
+  "frozen_at_utc": "2026-11-08T23:16:30Z",
+  "note": "computed from enrolment/calibration sessions only, before any test data was scored"
+}
